@@ -58,8 +58,8 @@ Universidad Peruana de Ciencias Aplicadas
 Carrera de Ingeniería de Software
 Período 202520
 1ASI0730 Aplicaciones Web
-NRC [Número de NRC]
-**Nombre del equipo**: [Nombre de su equipo]
+NRC: 7468
+**Nombre del equipo**: Mythicore
 **Líder del equipo**: [Nombres y Apellidos del líder]
-**Integrantes del equipo**: [Nombres y Apellidos de cada participante]
+**Integrantes del equipo**: -Gutierrez Tume Stanley jeremy
 **Fecha de entrega**: [Fecha]
