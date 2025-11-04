@@ -60,6 +60,8 @@ Período 202520
 1ASI0730 Aplicaciones Web
 NRC: 7468
 **Nombre del equipo**: Mythicore
-**Líder del equipo**: [Nombres y Apellidos del líder]
-**Integrantes del equipo**: -Gutierrez Tume Stanley jeremy
+**Líder del equipo**: Gutierrez Tume Stanley jeremy
+**Integrantes del equipo**: 
+- Gutierrez Tume Stanley jeremy <br> 
+- Meza Huanacune Juan José <br>
 **Fecha de entrega**: [Fecha]
