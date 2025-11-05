@@ -54,14 +54,20 @@ requiere descargas!** Solo abre tu navegador web.
 **¡Gracias por completar el curso!**
 ---
 ## 👥 Elaboración
-Universidad Peruana de Ciencias Aplicadas
-Carrera de Ingeniería de Software
-Período 202520
-1ASI0730 Aplicaciones Web
-NRC: 7468
-**Nombre del equipo**: Mythicore
-**Líder del equipo**: Gutierrez Tume Stanley jeremy
-**Integrantes del equipo**: 
-- Gutierrez Tume Stanley jeremy <br> 
-- Meza Huanacune Juan José <br>
-**Fecha de entrega**: [Fecha]
+
+Universidad Peruana de Ciencias Aplicadas  
+Carrera de Ingeniería de Software  
+Período 202520 — 1ASI0730 Aplicaciones Web  
+NRC: 7468  
+
+**Nombre del equipo:** Mythicore  
+**Líder del equipo:** Gutiérrez Tume Stanley Jeremy  
+
+**Integrantes del equipo:**
+- Gutiérrez Tume Stanley Jeremy  
+- Meza Huanacune Juan José  
+- Romero Jimmy  
+- Chacaliaza Minaya Eduardo Fabián  
+- Quispe Barzola Fabricio Fabián  
+
+**Fecha de entrega:** 14 de noviembre del 2025
