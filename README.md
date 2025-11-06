@@ -1,8 +1,11 @@
 # webdev-course-mithycore
 # Fundamentos de Desarrollo Web
 ## Resumen del Curso
-Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sitios web sencillos con HTML y CSS. **¡No
-requiere descargas!** Solo abre tu navegador web.
+Este proyecto forma parte del trabajo complementario del curso **Aplicaciones Web (1ASI0730)** de la **Universidad Peruana de Ciencias Aplicadas (UPC)**.  
+El objetivo es diseñar un **curso en video de 1 hora** para enseñar los fundamentos del desarrollo web (HTML y CSS) a estudiantes de secundaria, usando como proyecto final la creación de un **Blog de Animes**.
+
+El curso se compone de videos cortos, prácticas interactivas en editores online y un repositorio con ejemplos de código.
+
 **Duración total**: ~60 minutos
 **Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación
 **Prerrequisitos**: Ninguno
