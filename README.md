@@ -13,7 +13,7 @@ El curso se compone de videos cortos, prácticas interactivas en editores online
 **📂 Repositorio de código fuente**: [https://github.com/yourusername/webdev-courseteamname](https://github.com/yourusername/webdev-course-teamname)
 ## Secuencia de la lección
 ### Lección 1: ¿Qué es el desarrollo web? (5 minutos)
-- **Descripción: ** En esta lección muestro qué es el desarrollo web y cómo HTML y CSS forman la base de cualquier sitio web.  
+- **Descripción** :En esta lección muestro qué es el desarrollo web y cómo HTML y CSS forman la base de cualquier sitio web.  
   Uso un ejemplo sencillo en CodePen para crear una página titulada *Mi Blog de Animes* 
 - **Enlace**: https://youtu.be/KmwgPDoN_2Q?si=Q2TNrpriiVYy_nwD
 - **Consejos clave**: 
