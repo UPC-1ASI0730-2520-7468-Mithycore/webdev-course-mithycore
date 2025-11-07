@@ -23,10 +23,18 @@ El curso se compone de videos cortos, prácticas interactivas en editores online
 - **Empieza a programar**: https://codepen.io/Jeremy-Gutierre-tume/pen/zxrVxEe
 
 ### Lección 2: Introducción a HTML (10 minutos)
-- **Descripción**: Explora las etiquetas HTML básicas y crea tu primera página.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link2)
-- **Consejos clave**: Usa `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`.
-- **Práctica**: [Clic para programar](https://codepen.io/your-pen-id) 👈 **¡No necesitas registrarte!**
+- **Descripción**: En esta lección enseño cómo construir la estructura básica de una página web usando HTML.  
+  Explico el uso de etiquetas como `<header>`, `<main>`, `<section>`, `<footer>`, `<ul>` y `<li>` aplicadas al proyecto *Blog de Animes*.  
+- **Enlace**: https://youtu.be/c4bFi0aJR3k
+- **Consejos clave**: 
+   -HTML define la estructura del sitio.  
+  - Las etiquetas se usan para organizar y jerarquizar el contenido.  
+  - En CodePen solo se escribe el contenido dentro del `<body>`.  
+  - Usar etiquetas semánticas mejora la claridad del código.  
+- **Práctica**: https://codepen.io/Jeremy-Gutierre-tume/pen/dPGBPQG
+
+
+
 ### Lección 3: Añadir más elementos HTML (8 minutos)
 - **Descripción**: Agrega listas, imágenes y enlaces para que tu página sea interactiva.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link3)
