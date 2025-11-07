@@ -13,24 +13,34 @@ El curso se compone de videos cortos, prácticas interactivas en editores online
 **📂 Repositorio de código fuente**: [https://github.com/yourusername/webdev-courseteamname](https://github.com/yourusername/webdev-course-teamname)
 ## Secuencia de la lección
 ### Lección 1: ¿Qué es el desarrollo web? (5 minutos)
+
 - **Descripción** :En esta lección muestro qué es el desarrollo web y cómo HTML y CSS forman la base de cualquier sitio web.  
   Uso un ejemplo sencillo en CodePen para crear una página titulada *Mi Blog de Animes* 
+  
 - **Enlace**: https://youtu.be/KmwgPDoN_2Q?si=Q2TNrpriiVYy_nwD
+
 - **Consejos clave**: 
-   *HTML = estructura (esqueleto del sitio).  
-  *CSS = diseño (colores, estilos y tipografía).  
-  *CodePen ya incluye el entorno necesario para practicar. 
+
+   - HTML = estructura (esqueleto del sitio).  
+  - CSS = diseño (colores, estilos y tipografía).  
+  - CodePen ya incluye el entorno necesario para practicar. 
+  
 - **Empieza a programar**: https://codepen.io/Jeremy-Gutierre-tume/pen/zxrVxEe
 
 ### Lección 2: Introducción a HTML (10 minutos)
+
 - **Descripción**: En esta lección enseño cómo construir la estructura básica de una página web usando HTML.  
   Explico el uso de etiquetas como `<header>`, `<main>`, `<section>`, `<footer>`, `<ul>` y `<li>` aplicadas al proyecto *Blog de Animes*.  
+  
 - **Enlace**: https://youtu.be/c4bFi0aJR3k
+
 - **Consejos clave**: 
-   -HTML define la estructura del sitio.  
+
+  - HTML define la estructura del sitio.  
   - Las etiquetas se usan para organizar y jerarquizar el contenido.  
   - En CodePen solo se escribe el contenido dentro del `<body>`.  
   - Usar etiquetas semánticas mejora la claridad del código.  
+  
 - **Práctica**: https://codepen.io/Jeremy-Gutierre-tume/pen/dPGBPQG
 
 
