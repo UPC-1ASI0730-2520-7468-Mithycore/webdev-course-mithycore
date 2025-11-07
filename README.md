@@ -13,10 +13,15 @@ El curso se compone de videos cortos, prácticas interactivas en editores online
 **📂 Repositorio de código fuente**: [https://github.com/yourusername/webdev-courseteamname](https://github.com/yourusername/webdev-course-teamname)
 ## Secuencia de la lección
 ### Lección 1: ¿Qué es el desarrollo web? (5 minutos)
-- **Descripción**: Aprende de qué están hechos los sitios web y por qué HTML y CSS son los componentes básicos.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link1)
-- **Consejos clave**: Sitios web = Contenido (HTML) + Estilo (CSS).
-- **Empieza a programar**: [Open CodePen](https://codepen.io/pen/?template=your-starter)
+- **Descripción: ** En esta lección muestro qué es el desarrollo web y cómo HTML y CSS forman la base de cualquier sitio web.  
+  Uso un ejemplo sencillo en CodePen para crear una página titulada *Mi Blog de Animes* 
+- **Enlace**: https://youtu.be/KmwgPDoN_2Q?si=Q2TNrpriiVYy_nwD
+- **Consejos clave**: 
+   *HTML = estructura (esqueleto del sitio).  
+  *CSS = diseño (colores, estilos y tipografía).  
+  *CodePen ya incluye el entorno necesario para practicar. 
+- **Empieza a programar**:[ ](https://codepen.io/Jeremy-Gutierre-tume/pen/zxrVxEe)
+
 ### Lección 2: Introducción a HTML (10 minutos)
 - **Descripción**: Explora las etiquetas HTML básicas y crea tu primera página.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link2)
