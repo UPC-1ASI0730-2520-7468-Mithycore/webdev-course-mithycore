@@ -20,7 +20,7 @@ El curso se compone de videos cortos, prácticas interactivas en editores online
    *HTML = estructura (esqueleto del sitio).  
   *CSS = diseño (colores, estilos y tipografía).  
   *CodePen ya incluye el entorno necesario para practicar. 
-- **Empieza a programar**:[ ](https://codepen.io/Jeremy-Gutierre-tume/pen/zxrVxEe)
+- **Empieza a programar**: https://codepen.io/Jeremy-Gutierre-tume/pen/zxrVxEe
 
 ### Lección 2: Introducción a HTML (10 minutos)
 - **Descripción**: Explora las etiquetas HTML básicas y crea tu primera página.
