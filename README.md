@@ -83,3 +83,40 @@ El curso se compone de videos cortos, prácticas interactivas en el editor onlin
 
 ---
 
+## Recursos Adicionales
+
+- *Código Fuente Completo:* [Repositorio de GitHub](https://github.com/UPC-1ASI0730-2520-7468-Mithycore/webdev-course-mithycore)
+- *Editor utilizado:* [CodePen](https://codepen.io/your-work)
+- *Lenguajes usados:* HTML y CSS (sin JavaScript)
+- *Herramientas aplicadas:* Google Fonts, Flexbox, CSS Grid, Gradientes, Selectores y Transiciones CSS.
+- *Duración total del curso:* 1 hora y 16 minutos aprox.
+
+---
+
+## Elaboración
+
+*Universidad Peruana de Ciencias Aplicadas (UPC)*  
+*Carrera:* Ingeniería de Software  
+*Curso:* 1ASI0730 - Aplicaciones Web  
+*Sección:* 2520-7468  
+*Periodo académico:* 202520  
+
+*Nombre del equipo:* Mythicore  
+*Líder del equipo:* Gutiérrez Tume, Stanley Jeremy  
+
+*Integrantes del equipo:*
+- Meza Jhimy Pool, Romero  
+- Chacaliaza Minaya, Eduardo Fabián  
+- Meza Huanacune, Juan José  
+- Quispe Barzola, Fabricio Fabián  
+- Gutiérrez Tume, Stanley Jeremy  
+
+*Fecha de entrega:* 14 de noviembre del 2025
+
+---
+
+## Conclusión
+
+El proyecto *AnimeBlog* busca enseñar los fundamentos del desarrollo web de forma práctica y accesible para estudiantes de secundaria.  
+A través de las diez lecciones, se abordan conceptos esenciales de *HTML y CSS*, desde la estructura básica hasta los estilos finales de un sitio web completo.
+
