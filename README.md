@@ -13,6 +13,7 @@ El curso se compone de videos cortos, prácticas interactivas en el editor onlin
 **Herramientas necesarias:** **Solo tu navegador web** (Chrome, Firefox, Safari o Edge) <br>
 **Editor de código:** [CodePen](https://codepen.io/your-work) <br>
 **Repositorio de código fuente:** [https://github.com/UPC-1ASI0730-2520-7468-Mithycore/webdev-course-mithycore](https://github.com/UPC-1ASI0730-2520-7468-Mithycore/webdev-course-mithycore)
+**Página Web Pública del Proyecto (GitHub Pages):** [https://upc-1asi0730-2520-7468-mithycore.github.io/webdev-course-mithycore/](https://upc-1asi0730-2520-7468-mithycore.github.io/webdev-course-mithycore/)
 
 ---
 
