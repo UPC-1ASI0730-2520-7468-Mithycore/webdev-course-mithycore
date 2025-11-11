@@ -18,6 +18,21 @@ El curso se compone de videos cortos, prácticas interactivas en el editor onlin
 
 ## Secuencia de la lección
 
+### Lección 3: Estructura del Header (10:21 minutos)
+- *Descripción:* Se construye el encabezado del sitio (header) incluyendo el logotipo, menú de navegación y organización visual con HTML.  
+  Se trabaja con etiquetas semánticas como <header>, <nav> y <ul>.  
+- *Editor utilizado:* [CodePen](https://codepen.io/trending)  
+- *Enlace:* [https://youtu.be/-UAQusfbrT0](https://youtu.be/-UAQusfbrT0)
+
+---
+
+### Lección 4: Estructura del Header con CSS (8:08 minutos)
+- *Descripción:* Se aplican estilos al encabezado utilizando Flexbox para alinear los elementos y mejorar su presentación visual.  
+  Se configuran colores, tipografía y espaciados.  
+- *Editor utilizado:* [CodePen](https://codepen.io/trending)  
+- *Enlace:* [https://youtu.be/ZfXSU1QA8wg](https://youtu.be/ZfXSU1QA8wg)
+
+---
 
 ### Lección 5: Categorías (12:33 minutos)
 - **Descripción:** Se crean las secciones principales del Blog de Animes: Amor, Pelea, Comedia y Sobrenatural.  
