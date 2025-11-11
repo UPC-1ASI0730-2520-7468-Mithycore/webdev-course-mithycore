@@ -83,6 +83,14 @@ El curso se compone de videos cortos, prácticas interactivas en el editor onlin
 
 ---
 
+### Lección 9 y 10: Acerca del proyecto y footer (13:17 minutos)
+- *Descripción:* Se crea la sección final del proyecto Acerca del proyecto junto con el footer.  
+  Se explica la importancia del cierre semántico del sitio y se aplican los estilos finales al pie de página.  
+  Finalmente, se realiza un repaso de todo el código HTML y CSS.  
+- *Editor utilizado:* [CodePen](https://codepen.io/trending)  
+- *Enlace:* [https://youtu.be/C1tN4SWWYXo](https://youtu.be/C1tN4SWWYXo)
+
+---
 ## Recursos Adicionales
 
 - *Código Fuente Completo:* [Repositorio de GitHub](https://github.com/UPC-1ASI0730-2520-7468-Mithycore/webdev-course-mithycore)
