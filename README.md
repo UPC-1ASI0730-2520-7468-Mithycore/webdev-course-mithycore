@@ -97,7 +97,7 @@ El curso se compone de videos cortos, prácticas interactivas en el editor onlin
 - *Editor utilizado:* [CodePen](https://codepen.io/your-work)
 - *Lenguajes usados:* HTML y CSS (sin JavaScript)
 - *Herramientas aplicadas:* Google Fonts, Flexbox, CSS Grid, Gradientes, Selectores y Transiciones CSS.
-- *Duración total del curso:* 1 hora y 16 minutos aprox.
+- *Duración total del curso:* 1 hora y 18 minutos aprox.
 
 ---
 
@@ -107,7 +107,7 @@ El curso se compone de videos cortos, prácticas interactivas en el editor onlin
 *Carrera:* Ingeniería de Software  
 *Curso:* 1ASI0730 - Aplicaciones Web  
 *Sección:* 2520-7468  
-*Periodo académico:* 202520  
+*Periodo académico:* 2025-2  
 
 *Nombre del equipo:* Mythicore  
 *Líder del equipo:* Gutiérrez Tume, Stanley Jeremy  
@@ -120,6 +120,12 @@ El curso se compone de videos cortos, prácticas interactivas en el editor onlin
 - Gutiérrez Tume, Stanley Jeremy  
 
 *Fecha de entrega:* 14 de noviembre del 2025
+
+---
+
+## Estructura del trabajo
+
+webdev-course-mythicore/<br>├─ index.html<br>├─ styles.css<br>├─ assets/<br>          │   ├─ Demonslayer.jpg<br>│   ├─ Spyxfamily.avif<br>│   └─ haikyuu.jpg<br>│   └─ etc<br>└─ README.md
 
 ---
 
