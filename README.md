@@ -39,7 +39,7 @@ El curso se compone de videos cortos, prácticas interactivas en el editor onlin
 
 - *Descripción:* Se construye el encabezado del sitio (header) incluyendo el logotipo, menú de navegación y organización visual con HTML.  
   Se trabaja con etiquetas semánticas como `<header>`, `<nav>` y `<ul>`.  
-- *Editor utilizado:* [CodePen](https://codepen.io/trending)  
+- *Editor utilizado con lección:* [CodePen](https://codepen.io/Hernan-Cuentas/pen/jEWjgbB)
 - *Enlace:* [https://youtu.be/-UAQusfbrT0](https://youtu.be/-UAQusfbrT0)
 
 ---
@@ -47,7 +47,7 @@ El curso se compone de videos cortos, prácticas interactivas en el editor onlin
 ### Lección 4: Estructura del Header con CSS (8:08 minutos)
 - *Descripción:* Se aplican estilos al encabezado utilizando Flexbox para alinear los elementos y mejorar su presentación visual.  
   Se configuran colores, tipografía y espaciados.  
-- *Editor utilizado:* [CodePen](https://codepen.io/trending)  
+- *Editor utilizado con lección:* [CodePen](https://codepen.io/Hernan-Cuentas/pen/MYywwEE)  
 - *Enlace:* [https://youtu.be/ZfXSU1QA8wg](https://youtu.be/ZfXSU1QA8wg)
 
 ---
@@ -55,7 +55,7 @@ El curso se compone de videos cortos, prácticas interactivas en el editor onlin
 ### Lección 5: Categorías (12:33 minutos)
 - **Descripción:** Se crean las secciones principales del Blog de Animes: Amor, Pelea, Comedia y Sobrenatural.  
   Cada categoría tiene tarjetas con imágenes, títulos y descripciones de distintos animes.  
-- **Editor utilizado:** [CodePen](https://codepen.io/trending)  
+- *Editor utilizado con lección:* [CodePen](https://codepen.io/Hernan-Cuentas/pen/wBGaaXW)  
 - **Enlace:** [https://youtu.be/BLQZrCSwp6E](https://youtu.be/BLQZrCSwp6E)
 
 ---
@@ -63,7 +63,7 @@ El curso se compone de videos cortos, prácticas interactivas en el editor onlin
 ### Lección 6: Categorías con CSS (8:18 minutos)
 - **Descripción:** Se agregan estilos visuales a las categorías, ajustando la grilla, los márgenes y los efectos visuales para las tarjetas.  
   Se define la estructura base del contenedor `.grid` y los estilos de `.card`.  
-- **Editor utilizado:** [CodePen](https://codepen.io/trending)  
+- *Editor utilizado con lección:* [CodePen](https://codepen.io/Hernan-Cuentas/pen/xbVGGQm)  
 - **Enlace:** [https://youtu.be/M8J2hTzkZzE](https://youtu.be/M8J2hTzkZzE)
 
 ---
@@ -71,7 +71,7 @@ El curso se compone de videos cortos, prácticas interactivas en el editor onlin
 ### Lección 7: Sección “Ver más” en HTML (10:35 minutos)
 - **Descripción:** Se implementa el botón “Ver más” usando la etiqueta `<details>` para expandir más tarjetas.  
   Se explica cómo mejorar la experiencia del usuario manteniendo un diseño ordenado y dinámico.  
-- **Editor utilizado:** [CodePen](https://codepen.io/trending)  
+- *Editor utilizado con lección:* [CodePen](https://codepen.io/Hernan-Cuentas/pen/WbwvvVE)  
 - **Enlace:** [https://youtu.be/XnqHXJhHhTk](https://youtu.be/XnqHXJhHhTk)
 
 ---
@@ -79,7 +79,7 @@ El curso se compone de videos cortos, prácticas interactivas en el editor onlin
 ### Lección 8: Sección “Ver más” con CSS (7:17 minutos)
 - **Descripción:** Se aplican estilos al botón “Ver más” y se crea la animación de la flecha que gira al desplegar.  
   Se usa el pseudo-selector `details[open]` y se trabaja con transiciones suaves.  
-- **Editor utilizado:** [CodePen](https://codepen.io/trending)  
+- *Editor utilizado con lección:* [CodePen](https://codepen.io/Hernan-Cuentas/pen/yyONYBK)  
 - **Enlace:** [https://youtu.be/Z7IH-ktIevc](https://youtu.be/Z7IH-ktIevc)
 
 ---
@@ -88,7 +88,7 @@ El curso se compone de videos cortos, prácticas interactivas en el editor onlin
 - *Descripción:* Se crea la sección final del proyecto Acerca del proyecto junto con el footer.  
   Se explica la importancia del cierre semántico del sitio y se aplican los estilos finales al pie de página.  
   Finalmente, se realiza un repaso de todo el código HTML y CSS.  
-- *Editor utilizado:* [CodePen](https://codepen.io/trending)  
+- *Editor utilizado con lección:* [CodePen](https://codepen.io/Hernan-Cuentas/pen/qEZdOBz)  
 - *Enlace:* [https://youtu.be/C1tN4SWWYXo](https://youtu.be/C1tN4SWWYXo)
 
 ---
