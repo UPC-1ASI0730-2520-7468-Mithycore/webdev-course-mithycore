@@ -10,8 +10,8 @@ El curso se compone de videos cortos, prácticas interactivas en el editor onlin
 **Duración total:** ~1 hora y 18 minutos  
 **Público objetivo:** Estudiantes de 12 a 17 años sin experiencia en programación  
 **Prerrequisitos:** Ninguno  
-**Herramientas necesarias:** **Solo tu navegador web** (Chrome, Firefox, Safari o Edge)
-**Editor de código:** [CodePen](https://codepen.io/your-work)
+**Herramientas necesarias:** **Solo tu navegador web** (Chrome, Firefox, Safari o Edge) <br>
+**Editor de código:** [CodePen](https://codepen.io/your-work) <br>
 **Repositorio de código fuente:** [https://github.com/UPC-1ASI0730-2520-7468-Mithycore/webdev-course-mithycore](https://github.com/UPC-1ASI0730-2520-7468-Mithycore/webdev-course-mithycore)
 
 ---
