@@ -19,8 +19,9 @@ El curso se compone de videos cortos, prácticas interactivas en el editor onlin
 ## Secuencia de la lección
 
 ### Lección 3: Estructura del Header (10:21 minutos)
+
 - *Descripción:* Se construye el encabezado del sitio (header) incluyendo el logotipo, menú de navegación y organización visual con HTML.  
-  Se trabaja con etiquetas semánticas como <header>, <nav> y <ul>.  
+  Se trabaja con etiquetas semánticas como `<header>`, `<nav>` y `<ul>`.  
 - *Editor utilizado:* [CodePen](https://codepen.io/trending)  
 - *Enlace:* [https://youtu.be/-UAQusfbrT0](https://youtu.be/-UAQusfbrT0)
 
