@@ -18,6 +18,22 @@ El curso se compone de videos cortos, prácticas interactivas en el editor onlin
 
 ## Secuencia de la lección
 
+### Lección 1: ¿Qué es HTML? (4:00 minutos)
+- *Descripción:* Se introduce qué es HTML, su estructura básica y cómo define el contenido de una página web.  
+  También se presenta el entorno de trabajo y cómo se organiza el proyecto del Blog de Animes.  
+- *Editor utilizado:* [CodePen](https://codepen.io/your-work)  
+- *Enlace:* [https://youtu.be/fdXPn2R7_Po](https://youtu.be/fdXPn2R7_Po)
+
+---
+
+### Lección 2: ¿Qué es CSS? (4:56 minutos)
+- *Descripción:* Se explica el lenguaje CSS, su función para aplicar estilos a los elementos HTML y cómo ambos trabajan juntos.  
+  Se muestran ejemplos prácticos de colores, tipografía y diseño básico.  
+- *Editor utilizado:* [CodePen](https://codepen.io/your-work)  
+- *Enlace:* [https://youtu.be/HyNBvGfTDqc](https://youtu.be/HyNBvGfTDqc)
+
+---
+
 ### Lección 3: Estructura del Header (10:21 minutos)
 
 - *Descripción:* Se construye el encabezado del sitio (header) incluyendo el logotipo, menú de navegación y organización visual con HTML.  
