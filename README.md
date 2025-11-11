@@ -107,8 +107,8 @@ El curso se compone de videos cortos, prácticas interactivas en el editor onlin
 *Universidad Peruana de Ciencias Aplicadas (UPC)*  
 *Carrera:* Ingeniería de Software  
 *Curso:* 1ASI0730 - Aplicaciones Web  
-*Sección:* 2520-7468  
-*Periodo académico:* 2025-2  
+*NRC:* 7468  
+*Periodo académico:* 202520  
 
 *Nombre del equipo:* Mythicore  
 *Líder del equipo:* Gutiérrez Tume, Stanley Jeremy  
@@ -126,7 +126,7 @@ El curso se compone de videos cortos, prácticas interactivas en el editor onlin
 
 ## Estructura del trabajo
 
-webdev-course-mythicore/<br>├─ index.html<br>├─ styles.css<br>├─ assets/<br>          │   ├─ Demonslayer.jpg<br>│   ├─ Spyxfamily.avif<br>│   └─ haikyuu.jpg<br>│   └─ etc<br>└─ README.md
+webdev-course-mythicore/<br>├─ index.html<br>├─ styles.css<br>├─ assets/<br>          │   ├─ demonslayer.jpg<br>│   ├─ spyxfamily.avif<br>│   └─ haikyuu.jpg<br>│   └─ etc<br>└─ README.md
 
 ---
 
